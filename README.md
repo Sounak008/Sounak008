@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development and Java**
 
-- 👨‍💻 All of my projects are available at [https://sounak008.github.io](https://sounak008.github.io)
+- 👨‍💻 All of my projects are available at [https://sounak.tech/]
 
 - 💬 Ask me about **java and web development**
 
